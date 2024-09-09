@@ -1,4 +1,9 @@
 {
+    "name" : "difference_fun/docker",
+    "description" : "difference_fun/docker see https://difference.fun for detailed usage",
+    "type" : "package",
+    "keywords" : ["node", "difference", "fun", "keyboard", "package", "framework", "difference.fun", "docker"],
+    "homepage": "https://difference.fun",
     "require": {
         "difference_fun/framework": ">=2024.09.08.4",
         "difference_fun/test": ">=2024.09.08.4"
