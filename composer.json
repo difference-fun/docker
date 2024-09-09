@@ -1,0 +1,15 @@
+{
+    "require": {
+        "difference_fun/framework": ">=2024.09.08.4",
+        "difference_fun/test": ">=2024.09.08.4"
+    },
+    "prefer-stable": true,
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
